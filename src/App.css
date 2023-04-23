@@ -1,0 +1,58 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.App {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+li{
+  text-align: center;
+  list-style: none;
+  font-weight: bolder;
+  font-size: 30px;
+  font-family: 'Brush Script MT', cursive;
+  height : 70px;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  cursor: pointer;
+  color: azure;
+  margin-top : 20px;
+  border-radius: 20px;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+
+.output{
+  margin-top: 40px;
+  width: 500px;
+  height: 200px;
+  font-size: 30px;
+  background-color: #17202A;
+  color: white;
+  font-family: 'Brush Script MT', cursive;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 20px;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+.innerDiv{
+  font-size: 50px;
+  color: white;
+  text-align: center;
+  margin-top: 30px;
+}
+.header{
+  margin-top: 20px;
+  height: 70px;
+  font-size: 30px;
+  color: black;
+  font-family: 'Brush Script MT', cursive;
+  margin-left: auto;
+  background-color:#F1948A ;
+  color: aliceblue;
+  margin-right: auto;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
