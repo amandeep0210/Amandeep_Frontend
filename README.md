@@ -99,6 +99,6 @@ List.defaultProps = {
 export default List; 
 ```
 
-# Output Screen
+# Output Screen:
 ![Screenshot 2023-04-23 155625](https://user-images.githubusercontent.com/76957483/233834613-338fbd8b-13c4-4179-bcac-e35cee157196.png)
 
